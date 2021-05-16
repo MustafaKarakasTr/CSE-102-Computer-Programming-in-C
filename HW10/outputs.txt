@@ -1,0 +1,9 @@
+Distance(P1,P2)=2.0
+Distance(P1,P3)=4.5
+Angle(L12,L23)=45.0
+Angle(L12,L34)=90.0
+Length(L23) = 2.828427
+Length(PG1) = 16.0
+Length(PG2) = 19.3
+Area(PG1) = 14.000000
+Area(PG2) = 28.000000
